@@ -46,7 +46,7 @@ See **[Privacy Policy](PRIVACY.md)** for how SnackDuty handles information on yo
 
 ## App Store
 
-SnackDuty: Team Planner is available on the App Store (add your listing link here once live).
+SnackDuty: Team Planner is available on the App Store: https://apps.apple.com/us/app/snackduty-team-planner/id6775996392
 
 ---
 
